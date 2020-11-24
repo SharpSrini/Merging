@@ -1,0 +1,2 @@
+This is file 1 
+A sample file for an example merge
